@@ -1,7 +1,7 @@
 // Only change code below this line
-var fiveNumbers="";
 function inverseWhile() {
 var i = 5;
+var fiveNumbers="";
 while (i>-1) {
    if (i>0) {
     fiveNumbers += i + ","; 

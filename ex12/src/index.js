@@ -1,5 +1,6 @@
 function switchCaseSequential(num) {
     // Write code below this line
+    var answer;
     switch (num){
         case 1:
         case 2:
@@ -16,7 +17,7 @@ function switchCaseSequential(num) {
         case 9:
             answer = "High";
             break;           
-}
+        }
     // Write code above this line
     return answer;
 }

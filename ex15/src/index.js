@@ -1,6 +1,6 @@
 // Only change code below this line
-var myNumbers = "";
 function myDoWhile() {
+    var myNumbers = "";
     var i = 0
     do {
         if (i<9) {
